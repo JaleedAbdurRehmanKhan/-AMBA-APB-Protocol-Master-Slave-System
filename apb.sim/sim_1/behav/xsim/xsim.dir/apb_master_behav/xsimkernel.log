@@ -1,0 +1,7 @@
+Running: xsim.dir/apb_master_behav/xsimk.exe -simmode gui -wdb apb_master_behav.wdb -simrunnum 0 -socket 10497
+Design successfully loaded
+Design Loading Memory Usage: 11016 KB (Peak: 11016 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 11620 KB (Peak: 11620 KB)
+Simulation CPU Usage: 15 ms
